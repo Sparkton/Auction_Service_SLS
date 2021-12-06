@@ -1,4 +1,4 @@
-Serverless Framework Template
+# Serverless Framework Template
 
 ## What's included
 * Folder structure used consistently across our projects.
